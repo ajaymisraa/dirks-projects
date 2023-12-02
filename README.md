@@ -1,4 +1,4 @@
-# dirks-projects
+# Projects MASTER
 Projects developed throughout 2022-2023 during senior year at Mayo High School under Mr. Eric Dirks. The goal of this independent study course was to understand Linear Algebra, bayesian analysis, inference, and machine learning. This course was co-taught alongside the MIT OCW "Linear Algbera in Statistics". 
 
 ##GPT-3.5 Detection:
