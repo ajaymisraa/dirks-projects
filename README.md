@@ -17,4 +17,4 @@ We hypothesize that on-chain analytics can reveal optimization opportunities in 
 We hypothesize that radio signal behaviors can be predicted through AI and reinforcement-based machine learning algorithms. Created a 4-D weighted map considering time, day, weather, and location to assess this.
 
 ## GPT-Comparable Model:
-We hypothesize that a PyTorch-based generative language model can achieve performance levels similar to OpenAI’s GPT-2. Modified versions of publicly available weights and self-trained data were used to validate this hypothesis.
+We hypothesize that a PyTorch-based generative language model can achieve performance levels similar to OpenAI’s GPT-1.5 semantic embedding performance. Used public OpenAI to train, modify, and reinforce model. Modified versions of publicly available weights and self-trained data were used to validate this hypothesis.
